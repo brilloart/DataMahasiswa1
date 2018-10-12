@@ -1,0 +1,10 @@
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\bin\Debug\formMhs.exe.config
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\bin\Debug\formMhs.exe
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\bin\Debug\formMhs.pdb
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\obj\Debug\formMhs.csprojAssemblyReference.cache
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\obj\Debug\formMhs.Form1.resources
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\obj\Debug\formMhs.Properties.Resources.resources
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\obj\Debug\formMhs.csproj.GenerateResource.cache
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\obj\Debug\formMhs.csproj.CoreCompileInputs.cache
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\obj\Debug\formMhs.exe
+D:\PENDIDIKAN\SEMESTER 3\PEMPGROGRAMAN LANJUT\3\tugas3\tugas3\formMhs\obj\Debug\formMhs.pdb
